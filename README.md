@@ -7,7 +7,7 @@ We will use a B&amp;R "ETA410.0100-132" training "cube"
 
 https://github.com/hilch/mapp-motion-getting-started/blob/master/media/00_ETA410.0100-00_132.png
 
-the ETA
+the ETA uses an ACOPOS P3 and some additional X20 IO:
 
 ![ETA410 topology](https://github.com/hilch/mapp-motion-getting-started/blob/master/media/01_ETA410.0100-01_132_topology.png)
 
@@ -21,32 +21,31 @@ the ETA
 
 ## 3. Insert a Mapp Motion Single Axis Configuration
 
-[04](https://youtu.be/qdOVnebVUVw)
+[![04](http://img.youtube.com/vi/qdOVnebVUVw/0.jpg)](http://www.youtube.com/watch?v=qdOVnebVUVw)
 
-## 4. Insert an ACOPOS P3
+## 4. Insert an ACOPOS P3 in Physical View
 
-[05](https://youtu.be/tMh8Yh_kcs4)
+[![05](http://img.youtube.com/vi/tMh8Yh_kcs4/0.jpg)](http://www.youtube.com/watch?v=tMh8Yh_kcs4)
 
 ## 5. Insert Mapp Cockpit
 
-[06](https://youtu.be/yQiHJyo_oQ8)
+[![06](http://img.youtube.com/vi/yQiHJyo_oQ8/0.jpg)](http://www.youtube.com/watch?v=yQiHJyo_oQ8)
 
 ## 6. Commissioning with Mapp Cockpit
 
-[07](https://youtu.be/ZbgP48_rO-A)
+[![07](http://img.youtube.com/vi/ZbgP48_rO-A/0.jpg)](http://www.youtube.com/watch?v=ZbgP48_rO-A)
 
 ## 7. Save axis settings in permanent memory
 
-[08](https://youtu.be/qrduv-qJtsY)
+[![08](http://img.youtube.com/vi/qrduv-qJtsY/0.jpg)](http://www.youtube.com/watch?v=qrduv-qJtsY)
 
 ## 8. Insert MpAxisBasic Function Block
 
-[09](https://youtu.be/G-ZkjUBLmXo)
+[![09](http://img.youtube.com/vi/G-ZkjUBLmXo/0.jpg)](http://www.youtube.com/watch?v=G-ZkjUBLmXo)
 
 ## 9. Test the axis with MpAxisBasic
 
-[09](https://youtu.be/RnY5mPLEc3Q)
-[![09](http://img.youtube.com/vi/RnY5mPLEc3Q/0.jpg)](http://www.youtube.com/watch?v=RnY5mPLEc3Q)
+[![10](http://img.youtube.com/vi/RnY5mPLEc3Q/0.jpg)](http://www.youtube.com/watch?v=RnY5mPLEc3Q)
 
 
 
