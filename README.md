@@ -33,7 +33,7 @@ open Configuration View and add a Single Axis Configuration file. All required l
 
 ## 4. Insert an ACOPOS P3 in Physical View
 
-1. insert ACOPOS
+1. insert ACOPOS and set correct node number
 2. set DC bus voltage to 24V due to ETA limitations
 3. set encoder to "Endat"
 4. apply mapp Single axis to hardware
@@ -52,6 +52,8 @@ Mapp Cockpit is based on Mapp View Technology (but there is no license required)
 [![06](http://img.youtube.com/vi/yQiHJyo_oQ8/0.jpg)](http://www.youtube.com/watch?v=yQiHJyo_oQ8)
 
 ## 6. Commissioning with Mapp Cockpit
+
+open browser and navigate to http://<IPADDRESS>:81/index.html?visuId=mappCockpit
 
 1. autotune speed controller
 2. autotune position controller
