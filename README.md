@@ -53,7 +53,17 @@ Mapp Cockpit is based on Mapp View Technology (but there is no license required)
 
 ## 6. Commissioning with Mapp Cockpit
 
-open browser and navigate to http://<IPADDRESS>:81/index.html?visuId=mappCockpit
+open browser and navigate to 
+
+`http://<IPADDRESS or HOSTNAME>:81/index.html?visuId=mappCockpit`
+
+e.g.
+
+`http://192.168.0.10:81/index.html?visuId=mappCockpit`
+
+or 
+
+`http://localhost:81/index.html?visuId=mappCockpit`
 
 1. autotune speed controller
 2. autotune position controller
