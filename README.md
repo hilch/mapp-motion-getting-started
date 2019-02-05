@@ -1,13 +1,17 @@
-# mapp-motion-getting-started
-This tutorial shows how To Use B&amp;R "Mapp Motion" Technology Package to implement a single axis project
+# Getting Started with B&R "Mapp Motion"
+
+[![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+This tutorial shows how to use B&amp;R "Mapp Motion" Technology Package to implement a single axis project.
+Follow the steps below (some pics link to YouTube) or just download the complete release with Automation Studio
+project included.
 
 We will use a B&amp;R "ETA410.0100-132" training "cube"
 
 ![ETA410](https://github.com/hilch/mapp-motion-getting-started/blob/master/media/00_ETA410.0100-00_132.png)
 
-https://github.com/hilch/mapp-motion-getting-started/blob/master/media/00_ETA410.0100-00_132.png
-
-the ETA uses an ACOPOS P3 and some additional X20 IO:
+The ETA uses an ACOPOS P3 and some additional X20 IO. A switch connected to both IO card and Trigger 1 input is
+also added.
 
 ![ETA410 topology](https://github.com/hilch/mapp-motion-getting-started/blob/master/media/01_ETA410.0100-01_132_topology.png)
 
