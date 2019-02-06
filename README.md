@@ -101,5 +101,9 @@ Just copy the code from GUID a85aaaa7-f087-4977-b4ef-f4bbb1e069bb (Automation He
 
 [![10](http://img.youtube.com/vi/RnY5mPLEc3Q/0.jpg)](http://www.youtube.com/watch?v=RnY5mPLEc3Q)
 
+## 10. Trace Velocity and Lag Error with mapp Cockpit
+
+[![11](http://img.youtube.com/vi/tcPd2fxRN3M/0.jpg)](http://www.youtube.com/watch?v=tcPd2fxRN3M)
+
 
 
