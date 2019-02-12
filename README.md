@@ -6,7 +6,9 @@ This tutorial shows how to use B&amp;R "Mapp Motion" Technology Package to imple
 Follow the steps below (some pics link to YouTube) or just download the complete release with Automation Studio
 project included.
 
-We will use a B&amp;R "ETA410.0100-132" training "cube"
+*To run Mapp Motion on a real PLC/axis a license 'TGMPAXIS.00-01' is required !
+
+We will use a B&amp;R "ETA410.0100-132" training "cube".
 
 ![ETA410](https://github.com/hilch/mapp-motion-getting-started/blob/master/media/00_ETA410.0100-00_132.png)
 
